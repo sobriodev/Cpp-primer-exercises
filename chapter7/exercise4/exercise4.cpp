@@ -11,6 +11,7 @@ int main() {
                   << std::endl;
         std::cout << "Enter other numbers" << std::endl;
     }
+    return EXIT_SUCCESS;
 }
 
 long double probability(unsigned numbers, unsigned picks) {

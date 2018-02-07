@@ -13,6 +13,7 @@ int main() {
                   << std::endl;
         std::cout << "Enter another number" << std::endl;
     }
+    return EXIT_SUCCESS;
 }
 
 long factorial(unsigned num) {
